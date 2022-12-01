@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Araba Yarışı Vize Projesi.Plugins", "Araba Yarışı Vize Projesi.Plugins.csproj", "{C0F4E393-63EF-33DE-5994-F36A787777BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Araba Yarışı Vize Projesi", "Araba Yarışı Vize Projesi.csproj", "{79012EF6-E7E8-55C0-97B6-6C65F65A4E2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Araba Yarışı Vize Projesi.Editor.Plugins", "Araba Yarışı Vize Projesi.Editor.Plugins.csproj", "{337D2549-5F88-2A16-9B85-CCCEC5791A34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0F4E393-63EF-33DE-5994-F36A787777BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F4E393-63EF-33DE-5994-F36A787777BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F4E393-63EF-33DE-5994-F36A787777BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F4E393-63EF-33DE-5994-F36A787777BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79012EF6-E7E8-55C0-97B6-6C65F65A4E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79012EF6-E7E8-55C0-97B6-6C65F65A4E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79012EF6-E7E8-55C0-97B6-6C65F65A4E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79012EF6-E7E8-55C0-97B6-6C65F65A4E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{337D2549-5F88-2A16-9B85-CCCEC5791A34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{337D2549-5F88-2A16-9B85-CCCEC5791A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{337D2549-5F88-2A16-9B85-CCCEC5791A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{337D2549-5F88-2A16-9B85-CCCEC5791A34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
